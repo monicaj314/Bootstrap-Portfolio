@@ -30,7 +30,6 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height:2;
-	background-image: url("../images/notebook.jpg");
 	overflow-y:scroll;
 }
 body, html {
@@ -65,7 +64,6 @@ h2 {
 	position:relative;
 	bottom:10px;
 	text-align:center;
-	border-bottom: solid #cccccc 1px;
 	margin-bottom: 15px;
 }
 p {
@@ -91,8 +89,6 @@ header {
 	background-color: #ffffff;
 	overflow: auto;
 	border-style: solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #cccccc;
 }
 .name {
 	position:relative;
@@ -146,7 +142,6 @@ ul.navbarlinks li a:hover {
  	color: #4aaaa5;
 	padding-bottom: 15px;
 	text-align:left;
-	border-bottom: solid #cccccc 1px;
 	margin-bottom: 25px;
 }
 /*Sidebar styling*/
@@ -165,20 +160,6 @@ aside {
 	padding: 1px;
 	margin-left:16px;
 }
-/*Footer styling*/
-footer {
-	width:100%;
-	color: #ffffff;
-	background-color:#666666;
-	border-top: solid #4aaaa5 5px;
-	padding: 20px;
-	text-align:center;
-	position:fixed;
-	bottom:0;
-} 
-.push {
-	height: 87px;
-} 
 
 
 

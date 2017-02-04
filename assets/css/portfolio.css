@@ -1,0 +1,20 @@
+ /*Styling specific to portfolio.html*/
+
+.gallery {
+	margin:auto;
+	position:relative;
+
+}
+
+.tile {
+	margin-bottom:50px;
+}
+.caption {
+	display:inline-block;
+	position:absolute;
+	margin-top:150px;
+	background-color: #FFF;
+	width:285px;
+	height:35px;
+	font-family: 'Open Sans','Helvetica';
+}
